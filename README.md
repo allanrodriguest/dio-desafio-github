@@ -1,2 +1,7 @@
-# dio-desafio-github
-Desafio de Projeto sobre Git/Github
+# Desafio de Projeto sobre Git/Github da DIO
+Repositório criado para o Desafio de Projeto da Digital Innovation One.
+
+
+## Links úteis
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+[Git Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
